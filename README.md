@@ -1,5 +1,6 @@
 # christianhenn.de
-Storage for personal webpage
+Storage for personal webpage data. Took some steps to add locally installed fonts and api files, due to legal considerations.
+Finally I have one  repo at GitHub...
 
 ## Based upon StartBootstrap
 
